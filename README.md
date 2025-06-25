@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://tndev.in/Auric.jpg" alt="Auric Tamil Radio" width="200"/>
   
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/your-invite](https://discord.gg/etTMNChaVX))
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
   [![Stars](https://img.shields.io/github/stars/NirmaLKumar26/Auric-Tamil-FM-Radio?style=for-the-badge)](https://github.com/NirmaLKumar26/Auric-Tamil-FM-Radio)
@@ -257,7 +257,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Need Help?
 
-[![Discord Server](https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Discord Server](https://img.shields.io/badge/Join%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/your-invite](https://discord.gg/etTMNChaVX))
 [![GitHub Issues](https://img.shields.io/badge/GitHub%20Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NirmaLKumar26/Auric-Tamil-FM-Radio/issues)
 
 **Found a bug?** [Report it here](https://github.com/NirmaLKumar26/Auric-Tamil-FM-Radio/issues/new)
