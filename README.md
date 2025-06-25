@@ -1,7 +1,7 @@
 # 🎙️ Auric Tamil Radio Bot
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1074583589259321404/1387393722999898185/Auric_Realms_Music_Logo.jpg" alt="Auric Tamil Radio" width="200"/>
+  <img src="https://tndev.in/Auric.jpg" alt="Auric Tamil Radio" width="200"/>
   
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
